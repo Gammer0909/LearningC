@@ -1,0 +1,3 @@
+/Users/kalliegarzon/Documents/LearningC/TicTacToe/CMakeFiles/TicTacToe.dir
+/Users/kalliegarzon/Documents/LearningC/TicTacToe/CMakeFiles/edit_cache.dir
+/Users/kalliegarzon/Documents/LearningC/TicTacToe/CMakeFiles/rebuild_cache.dir
